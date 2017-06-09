@@ -1,7 +1,5 @@
 ## I am suffering internally
-You can use the [editor on GitHub](https://github.com/kimwa0/kimwa0.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## enjoy :)
 
 You need to stay up out them streets if you can't take the heat
 You need to stay up out them streets if you can't take the heat
