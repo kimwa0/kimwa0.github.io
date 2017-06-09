@@ -1,7 +1,7 @@
 ## I am suffering internally
 ## enjoy :)
 
-You need to stay up out them streets if you can't take the heat
+***You need to stay up out them streets if you can't take the heat
 You need to stay up out them streets if you can't take the heat
 Cause it get cold like Minnesota, cold like Minnesota
 Cold like Minnesota, cold like Minnesota
@@ -10,7 +10,7 @@ You need to stay up out them streets if you can't take the heat
 Cause it get cold like Minnesota, cold like Minnesota
 Cold like Minnesota, it get cold like Minnesota
 Need to stay up out them streets if you can't take the heat
-You need to stay up out them streets if you can't take the heatr
+You need to stay up out them streets if you can't take the heat***
 
 ```markdown
 Syntax highlighted code block
